@@ -1,8 +1,8 @@
 <p align="center">
-<a href="https://bit.ly/2BNk3P1"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
+<a href="https://bit.ly/2BNk3P1"><img title="Made in BANGLADESH" src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://bit.ly/2BNk3P1"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-Grabcam-green.svg"></a>
+<a href="https://bit.ly/2BNk3P1"><img title="Made in BANGLADESH" src="https://img.shields.io/badge/Tool-Grabcam-green.svg"></a>
 <a href="https://bit.ly/2BNk3P1"><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
 <a href="https://bit.ly/2BNk3P1"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
@@ -10,7 +10,7 @@
 <a href="https://bit.ly/2BNk3P1"><img title="Grabcam" src="https://user-images.githubusercontent.com/49580304/96668015-0c7eb600-130f-11eb-9193-e02e6b209b01.jpg"></a>
 </p>
 <p align="center">
-<a href="https://github.com/noob-hackers"><img title="Github" src="https://img.shields.io/badge/noob-hackers-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/D4rk-B0y"><img title="Github" src="https://img.shields.io/badge/noob-hackers-brightgreen?style=for-the-badge&logo=github"></a>
 <a href="https://rebrand.ly/noobhackers"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Noob Hackers-red?style=for-the-badge&logo=Youtube"></a>
 </p>
 <p align="center">
@@ -57,7 +57,7 @@ Grabcam is a bash based script which is officially made for termux from this too
 * `pkg install python2 -y`
 * `pkg install git -y`
 * `pip install lolcat`
-* `git clone https://github.com/noob-hackers/grabcam`
+* `git clone https://github.com/D4rk-B0y/grabcam`
 * `cd $HOME`
 * `ls`
 * `cd grabcam`
@@ -115,7 +115,7 @@ __SELECT OPTION__ :
 ## BUY ME A COFFEE :
 
 <p align="center">
-<a href="https://rebrand.ly/BuyCoffee"><img title="Noob Hackers" src="https://camo.githubusercontent.com/ae8af018f80649f3d379eb23dbf59acceaffa24e/68747470733a2f2f6c69626572617061792e636f6d2f6173736574732f776964676574732f646f6e6174652e737667"></a>
+<a href="https://rebrand.ly/BuyCoffee"><img title="Abir Rahman" src="https://camo.githubusercontent.com/ae8af018f80649f3d379eb23dbf59acceaffa24e/68747470733a2f2f6c69626572617061792e636f6d2f6173736574732f776964676574732f646f6e6174652e737667"></a>
 </p>
 
 ## WARNING : 
